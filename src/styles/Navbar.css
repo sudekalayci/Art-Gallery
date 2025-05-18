@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&family=Italianno&family=Montserrat:wght@100..900&display=swap');
+nav {
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(202, 216, 154, 0.1);
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  nav h1{
+    color:  #87575C;
+    font-family: "Herr Von Muellerhoff", cursive;
+    font-weight: 400;
+  }
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+  }
+  nav a:hover {
+    color: #87575C;
+    font-weight: 500;
+  }
