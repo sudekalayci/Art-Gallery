@@ -4,7 +4,7 @@ Art Gallery, modern ve kullanıcı dostu bir sanat galerisi web uygulamasıdır.
 
 ## Özellikler
 
-- Modern ve responsif tasarım
+- Modern ve responsive tasarım
 - Mobil uyumlu arayüz
 - Animasyonlu geçişler (AOS - Animate On Scroll)
 - Swiper kullanılarak oluşturulan galeri görünümü
