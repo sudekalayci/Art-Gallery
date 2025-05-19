@@ -11,7 +11,7 @@ const Navbar = () => {
       
       {/* Sol: Logo*/}
       <div className="flex items-center gap-6">
-        <h1 className="text-2xl font-bold">Sanat Sanat</h1>
+        <h1 className="text-2xl font-bold">Art Gallery</h1>
       </div>
 
       {/* Hamburger Menu (Mobile) */}
